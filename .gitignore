@@ -1,0 +1,5 @@
+#datasets
+/FakeNewsPrediction/datasets/
+
+#note book checkpoints
+.ipynb_checkpoints
