@@ -1,6 +1,7 @@
 #datasets
 /FakeNewsPrediction/datasets/
 /CreditCardFraudDetection/dataset/
+/MovieRecommendationSystem/dataset/
 
 #note book checkpoints
 .ipynb_checkpoints
